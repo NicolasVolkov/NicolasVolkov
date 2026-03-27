@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, meu nome é Nicolas
+- Atualmente sou estudante de engenharia de software na Unifil
+- Tenho interesse em linguagens e a lógica de programação programação
+# Sobre Mim
+- Tenho trabalhado em projetos para desenvolver ainda mais a minha lógica e habilidades
+- Gosto de jogar jogos como Stardew Valley e Persona
+# Formas de programar que eu tenho treinado
+- HTML
+- Java
+- Css
+- Python
+# Formas de contato
+- linkedin: Nicolas Borges
+- Email: kroterup@gmail.com
 
-<!--
-**NicolasVolkov/NicolasVolkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
