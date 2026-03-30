@@ -7,7 +7,7 @@
 # Formas de programar que eu tenho treinado
 - HTML
 - Java
-- Css
+- CSS
 - Python
 # Formas de contato
 - linkedin: Nicolas Borges
