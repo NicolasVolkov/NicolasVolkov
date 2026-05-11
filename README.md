@@ -13,4 +13,3 @@
 # Contact Information
 - LinkedIn: Nicolas Borges
 - Email: kroterup@gmail.com
-
