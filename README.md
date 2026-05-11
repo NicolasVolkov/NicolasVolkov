@@ -1,15 +1,15 @@
-# Olá, meu nome é Nicolas
-- Atualmente sou estudante de engenharia de software na Unifil
-- Tenho interesse em linguagens e a lógica de programação programação
-# Sobre Mim
-- Tenho trabalhado em projetos para desenvolver ainda mais a minha lógica e habilidades
-- Gosto de jogar jogos como Stardew Valley e Persona
-# Formas de programar que eu tenho treinado
+# Hello, my name is Nicolas
+- I am currently a software engineering student at Unifil
+- I am interested in programming languages ​​and logic
+# About Me
+- I have been working on projects to further develop my logic and skills
+- I enjoy playing games like Stardew Valley and Persona
+# Programming methods I have been practicing
 - HTML
 - Java
 - CSS
 - Python
-# Formas de contato
-- linkedin: Nicolas Borges
+# Contact Information
+- LinkedIn: Nicolas Borges
 - Email: kroterup@gmail.com
 
