@@ -11,17 +11,15 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
   </a>
 </p>
-# Hello, my name is Nicolas
-- I am currently a software engineering student at Unifil
-- I am interested in programming languages ​​and logic
-# About Me
-- I have been working on projects to further develop my logic and skills
-- I enjoy playing games like Stardew Valley and Persona
-# Programming methods I have been practicing
-- HTML
-- Java
-- CSS
-- Python
-# Contact Information
-- LinkedIn: Nicolas Borges
-- Email: kroterup@gmail.com
+<h1>Hello, my name is Nicolas</h1>
+<p>- I am currently a software engineering student at Unifil</p>
+<p>- I am interested in programming languages ​​and logic</p>
+<h1>About Me</h1>
+<p>- I have been working on projects to further develop my logic and skills</p>
+<p>- I enjoy playing games like Stardew Valley and Persona</p>
+<h1>Programming methods I have been practicing</h1>
+<p>- HTML</p>
+<p>- Java</p>
+<p>- CSS</p>
+<p>- Python</p>
+
